@@ -1,1 +1,3 @@
-# 20240424-Qualifier-Notes
+# IIT Madras - BS in Data Science and Applications
+
+## Qualifier Notes
